@@ -1,5 +1,7 @@
 # Gestor Financeiro Pessoal via Chat
 
+**Autor:** Gustavo Amendola
+
 Aplicação de console em Java para registrar e consultar gastos e receitas por meio de mensagens em linguagem natural, com persistência em MySQL.
 
 Projeto desenvolvido para a disciplina de Projeto em Computação Aplicada, Ciências da Computação, Universidade Nove de Julho.
